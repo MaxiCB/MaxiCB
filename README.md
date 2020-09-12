@@ -20,9 +20,10 @@ I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**,
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Do something .new [Week 36/20 in Review]](https://dev.to/natterstefan/do-something-new-week-36-20-in-review-151n)
-- [Discover Dev News with every new tab you open - thanks to daily.dev! [Week 35/20 in Review]](https://dev.to/natterstefan/discover-dev-news-with-every-new-tab-you-open-thanks-to-daily-dev-week-35-20-in-review-5kb)
-- [Manage your Chrome tabs like a Pro with Workona [Week 34/20 in Review]](https://dev.to/natterstefan/manage-your-chrome-tabs-like-a-pro-with-workona-week-34-20-in-review-21ml)
+
+- [Full Stack Reddit Clone - Part 6](https://dev.to/maxicb/full-stack-reddit-clone-spring-boot-react-electron-app-part-6-5e33)
+- [Full Stack Reddit Clone - Part 5](https://dev.to/maxicb/full-stack-reddit-clone-spring-boot-react-electron-app-part-5-2h8j)
+- [Full Stack Reddit Clone - Part 4](https://dev.to/maxicb/full-stack-reddit-clone-spring-boot-react-electron-app-part-4-4eam)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; My GitHub Stats
