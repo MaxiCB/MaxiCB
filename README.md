@@ -13,7 +13,7 @@ You can see what I am currently up to on [aaroncb.com][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [dev.to/maxicb][4]. I write about things
+You can find my blog posts on [dev.to/maxicb][3]. I write about things
 I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**,
 **NodeJS**, and **Java**.
 
