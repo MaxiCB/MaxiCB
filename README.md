@@ -1,6 +1,6 @@
 Hey 👋🏻,
 
-I am a Software Engineer from Memphis, TN. I am interested in, write about and develop software solutions with JavaScript, TypeScript, ReactJs and NodeJS, Java, Springboot, Python, Django.
+I am a Software Engineer from Memphis, TN. I am interested in, write about and develop software solutions with JavaScript, TypeScript, React, NodeJS, Java, Springboot, Python, Django. Feel free to reach out using my contact information found below!
 
 You can see what I am currently up to in my free time on [aaroncb.com][1].
 
